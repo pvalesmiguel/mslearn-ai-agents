@@ -1,0 +1,4 @@
+Support ticket: eeab18
+Submitted by: phvale@gc.com
+Description:
+El ordenador no funcionaba porque el cable estaba desenchufado. El usuario indicó que el cable estaba desenchufado y lo reconectó. Solicita asistencia si sigue sin encender después de reconectar. Pasos ya sugeridos: conectar cable firmemente, probar toma de corriente, conectar directamente a la pared, comprobar LED del cargador, retirar batería (si procede), mantener pulsado botón encendido 10–15 s y observar luces/ventilador/pitidos. Nivel de urgencia no especificado.

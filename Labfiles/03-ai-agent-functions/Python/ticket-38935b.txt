@@ -1,0 +1,4 @@
+Support ticket: 38935b
+Submitted by: phvale@gcom.com
+Description:
+El usuario informa de una pantalla azul (BSOD). No proporcionó el código STOP ni capturas. Pendiente: indicar cuándo ocurre (inicio, al abrir app, aleatorio), modelo de PC/portátil y versión de Windows, si ocurrió tras actualización/instalación, pasos para reproducir, y si ha probado soluciones (modo seguro, sfc /scannow, chkdsk, diagnóstico de memoria). Usuario inicial: 'pantalla azul'. Por favor priorizar si es urgente.

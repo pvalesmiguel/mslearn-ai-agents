@@ -1,0 +1,4 @@
+Support ticket: 63c845
+Submitted by: phvales@ge.com
+Description:
+El ordenador no arranca; el usuario indica que parece estar desenchufado. Pide asistencia para comprobar alimentación y puesta en marcha. Recomendaciones previas sugeridas al usuario: comprobar cable de alimentación, regleta/interruptor, probar otra toma, en portátil conectar cargador y verificar LED, quitar batería si es extraíble, mantener pulsado el botón de encendido 5–10 s, observar luces/pitidos. No se ha recibido modelo del equipo ni más detalles.
